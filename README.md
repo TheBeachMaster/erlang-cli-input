@@ -1,2 +1,2 @@
-# erlang-pattern-matching
-Simple pattern matching in Erlang
+# erlang-cli
+Simply get data from CLI and spit it out
